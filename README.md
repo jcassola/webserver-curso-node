@@ -1,2 +1,2 @@
 # webserver-curso-node
-Del cursode Node de Fernando Herrera
+Del curso de Node de Fernando Herrera
